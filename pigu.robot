@@ -3,7 +3,6 @@ Library  SeleniumLibrary
 *** Variables ***
 ${Browser}  Chrome
 ${URL}  https://pigu.lt/lt/
-
 *** Test Cases ***
 TC_01 Open Browser
     Set Selenium Speed    2
