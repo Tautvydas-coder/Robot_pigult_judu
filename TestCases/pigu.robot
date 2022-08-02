@@ -36,7 +36,6 @@ Select severale products
         Scroll Element Into View    xpath:/html/body/div[1]/div[8]/div[1]/section/div/div/div[2]/section/div[3]/div/div[${prod}]/div/div/div[5]/div[2]
         Mouse Over    xpath:/html/body/div[1]/div[8]/div[1]/section/div/div/div[2]/section/div[3]/div/div[${prod}]/div/div
         Click Element    xpath:/html/body/div[1]/div[8]/div[1]/section/div/div/div[2]/section/div[3]/div/div[${prod}]/div/div/a[2]
-        #Failina, nes nespeja atrasti elemento po to kai jau yra 4i krepselyje. Atskirti nuo 42-44 eilutes is sito testcase (refactorint)
         Wait Until Page Contains Element    xpath:/html/body/div[12]/div/div/div/div[2]/div/div[2]
         Mouse Over    xpath:/html/body/div[12]/div/div/div/div[2]/div/div[2]/div/div[4]/div[1]/a
         Click Element    xpath:/html/body/div[12]/div/div/div/div[2]/div/div[2]/div/div[4]/div[1]/a
