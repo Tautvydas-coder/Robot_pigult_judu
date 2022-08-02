@@ -10,4 +10,4 @@ CART_BUTTON = "/div/div/a[2]"
 # judu.robot and pigu.robot
 Browser = "Chrome"
 MAX_WINDOW = "Maximize Browser Window"
-SELSPEED = 2
+SELSPEED = 1.5
